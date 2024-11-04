@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "name": "North East Line",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    
+     
+    {
+      "type": "Feature","properties": { "Name": "HarbourFront", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.821443, 1.265472] }},{
+      "type": "Feature","properties": { "Name": "Outram Park", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.838962, 1.279282] }},{
+      "type": "Feature","properties": { "Name": "Chinatown", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.843594, 1.284491] }},{
+      "type": "Feature","properties": { "Name": "Clarke Quay", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.846718, 1.288155] }},{
+      "type": "Feature","properties": { "Name": "Dhoby Ghaut", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.844715, 1.299078] }},{
+      "type": "Feature","properties": { "Name": "Little India", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.849407, 1.306648] }},{
+      "type": "Feature","properties": { "Name": "Farrer Park", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.854708, 1.31267] }},{
+      "type": "Feature","properties": { "Name": "Boon Keng", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.861623, 1.320038] }},{
+      "type": "Feature","properties": {"Name": "Potong Pasir","code": null,"name2": null
+      },"geometry": { "type": "Point", "coordinates": [103.86879, 1.331273] }},{
+      "type": "Feature","properties": { "Name": "Woodleigh", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.870738, 1.339126] }},{
+      "type": "Feature","properties": { "Name": "Serangoon", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.873635, 1.349788] }},{
+      "type": "Feature","properties": { "Name": "Kovan", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.885163, 1.360176] }},{
+      "type": "Feature","properties": { "Name": "Hougang", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.892545, 1.371331] }},{
+      "type": "Feature","properties": { "Name": "Buangkok", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.893358, 1.382948] }},{
+      "type": "Feature","properties": { "Name": "Sengkang", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.895453, 1.391661] }},{
+      "type": "Feature","properties": { "Name": "Punggol", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.902356, 1.40517] }},{
+      "type": "Feature","properties": {"Name": "Punggol Coast","code": null,"name2": null
+      },"geometry": { "type": "Point", "coordinates": [103.910297, 1.414916] }
+    }
+  ]
+}

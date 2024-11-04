@@ -1,0 +1,8122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - White Sands",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.949333, 1.372842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Pasir Ris Dr 8",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.949137, 1.372886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Tampines Bus Int",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.944766, 1.353764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Tampines 1",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.94509, 1.353539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Tampines Mall / Century Sq",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.944904, 1.353398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Simei St 3",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.953819, 1.342662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Bedok South Ave 3",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.945795, 1.326858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Tanah Merah Kechil Ave",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.945723, 1.327061]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Bedok South Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.929157, 1.323569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bedok Town Centre",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.929673, 1.324268]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Bedok Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.929404, 1.324075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Changi Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.912941, 1.320924]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Kg Chai Chee CC",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.912899, 1.321152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Sims Ave",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.902894, 1.319517]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Eunos Bus Int",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.902582, 1.319563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Jln Eunos",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.903215, 1.31953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Paya Lebar Sq",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.892788, 1.318216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - PLQ Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8932525, 1.3179184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Sims Ave",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.882497, 1.316238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Aljunied Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.882473, 1.316488]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Lor 1 Geylang Bus Ter",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.871731, 1.31154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Upp Boon Keng Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.871587, 1.311782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Immigrations & Checkpoints Authority",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.863043, 1.307169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - V Hotel Lavender",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.86265, 1.307619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Rochor Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855924, 1.301204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Raffles Hosp",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.856337, 1.300782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Bugis Junction",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855686, 1.300007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Raffles City",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.85302, 1.293227]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Capitol Bldg",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.85196, 1.2931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Stamford Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.85298, 1.293042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - One Raffles Place",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851438, 1.284125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Clifford Pier",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.85148, 1.284607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Ocean Financial Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851563, 1.283631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Republic Plaza",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851353, 1.283641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Ocean Financial Ctr / Equity Plaza",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851523, 1.283212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - Church St",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.850961, 1.282539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit G - Chulia St",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851478, 1.285017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit H - Fullerton Hotel",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851622, 1.285258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit I - Marina Blvd / One Finlayson Green",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851433, 1.282382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit J - Marina Bay Financial Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851296, 1.282626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit K - RB Capital Building",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8512467, 1.2838998]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit L - One Raffles Place",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851308, 1.284799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit M - Singapore Land Twr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851693, 1.284462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Peck Seah St",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844834, 1.276409]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Maxwell Chambers",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846545, 1.276672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - International Plaza",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846534, 1.276089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - AXA Twr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846909, 1.276065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - (Temporarily Closed)",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847096, 1.276259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - Capital Twr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846928, 1.277379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit G - Telok Ayer St",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846953, 1.277785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit H - Springleaf Twr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846445, 1.275451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit J - Guoco Twr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.845656, 1.276448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit K - Frasers Twr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846737, 1.277558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Singapore General Hosp",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.838658, 1.281602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Eu Tong Sen St",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.839789, 1.280993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Jln Membina",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.826991, 1.285759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Tiong Bahru Plaza",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.827496, 1.286362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Tiong Bahru Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.816994, 1.289371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Alexandra View",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.817249, 1.289486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Mei Ling St",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.806183, 1.294247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Margaret Dr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.806311, 1.29433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Commonwealth Twrs",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.805585, 1.295446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Mei Chin Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.805492, 1.295383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Faith Methodist Ch",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.797958, 1.302648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Commonwealth Cl",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.798058, 1.302753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Queensway",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.798779, 1.302077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Tanglin Halt Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.79872, 1.302013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Ghim Moh Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.790449, 1.307309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Holland Dr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.790657, 1.307197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Singapore Poly",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.778305, 1.311415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Holland Grove / Mt Sinai Ave",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.778465, 1.311693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - The Clementi Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.764982, 1.315374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Clementi Ave 4",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.765186, 1.315469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Clementi Ave 2",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.76575, 1.314162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Clementi Ave 3",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.76557, 1.314078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - SATA CommHealth Jurong Med Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.74176, 1.33399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Venture Ave",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.74264, 1.332526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - JEM",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.742762, 1.332749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Westgate",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.742298, 1.333581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Jurong East Ave 1",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.73222, 1.342439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Chinese Garden",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.732742, 1.341982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Jurong Town Hall Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.733393, 1.341566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Corporation Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.720449, 1.343983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Lakeside Dr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.721075, 1.344081]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Yuan Ching Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.721713, 1.344304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Jurong West St 64",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.705409, 1.33828]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Jurong Ctrl Pk",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.706146, 1.338421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Jurong Point",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.705955, 1.338738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Jurong Point",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.70565, 1.33863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Jurong West St 63",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.705353, 1.338514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - Boon Lay Way",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.705795, 1.338273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Upp Jurong Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.697155, 1.337345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Pioneer Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.697129, 1.337832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - FairPrice Hub",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.678521, 1.327502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Singapore Discovery Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.678644, 1.327956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Tuas Fire Stn",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.660444, 1.319032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Tuas Ave 3",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.659435, 1.318837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Tuas Ave 11",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.648959, 1.320764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Tuas Ave 4",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.649287, 1.321244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Tuas Ave 20",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.639284, 1.329872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Tuas Ave 12",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.639791, 1.330182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Tuas Bus Ter / Tuas West Depot",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.637246, 1.340427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Raffles Marina",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.636841, 1.34094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Singapore Expo Halls 1-6",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.961943, 1.335322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Changi South Ave 1",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.962075, 1.335253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Changi Airport Terminal 2",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.989277, 1.356341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Changi Airport Terminal 3",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.987305, 1.35722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Bukit Batok Bus Int",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.749974, 1.349561]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bukit Batok Ctrl Link",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.749937, 1.34939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - West Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.749767, 1.34952]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Bukit Batok NPP",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.749118, 1.348405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Bukit Gombak Sports Hall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.752076, 1.35907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bukit Gombak Stadium",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.752093, 1.358695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Bukit Batok West Ave 5",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.751727, 1.359065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Bukit Batok St 31",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.751951, 1.359298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Lot One Shoppers' Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.74456, 1.3854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Keat Hong CC",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.74447, 1.3846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Choa Chu Kang Bus Int",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.744518, 1.385736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - The Warren",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.744224, 1.385705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Yew Tee Cl",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.747195, 1.397655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Choa Chu Kang St 62",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.74733, 1.398068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Choa Chu Kang North 6",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.747432, 1.397001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Yew Tee Point",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.747111, 1.397273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Singapore Turf Club",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.762019, 1.424739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - KF1 Karting Circuit",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.761941, 1.424853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Woodlands Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.761755, 1.425126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Woodlands Ave 3",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.762497, 1.425125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Woodlands St 13",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.77421, 1.432802]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Woodlands St 11",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.774411, 1.432751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Woodlands Ave 3",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.77382, 1.43247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Woodlands Centre Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.773997, 1.432751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Woodlands Sq",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.785736, 1.436697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Causeway Point",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.786508, 1.436673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - South Woodlands Dr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.787108, 1.437243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Kampung Admiralty",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.80099, 1.440346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Woodlands Dr 71",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.800533, 1.440152]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Woodlands Ave 7",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.800542, 1.440596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Woodlands Ave 6",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.801365, 1.440533]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Sembawang Bus Int",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.82011, 1.448837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Sun Plaza",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.81979, 1.448768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Sembawang Way",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.819759, 1.449157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Canberra Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.820402, 1.448927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Canberra Way",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.829528, 1.44363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Canberra View",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.829962, 1.442935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Yishun Sapphire",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8297, 1.442804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Canberra Dr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.829255, 1.443511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Canberra Plaza",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.830116, 1.443256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Yishun Ring Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.834784, 1.429397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Yishun Ave 5",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.834866, 1.429636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Yishun Ave 2",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.835091, 1.429117]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Yishun St 72",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.834863, 1.429107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Northpoint City",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.835644, 1.429666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Yishun St 81",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832922, 1.417058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - HomeTeamNS / ORTO",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832707, 1.417143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Naval Base Sec Sch",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832887, 1.417545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Yishun Ring Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833231, 1.417869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Yio Chu Kang CC",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844834, 1.381644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Nanyang Poly",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844947, 1.381548]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Yio Chu Kang Bus Int / Yio Chu Kang Stadium",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844646, 1.381954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A/1 - Ang Mo Kio Ave 3",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.849939, 1.369465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B/4 - Ang Mo Kio Ave 8",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.849596, 1.369685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C/5 - AMK Hub / Ang Mo Kio Bus Int",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.849343, 1.369441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D/6 - Cheng San CC",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.849825, 1.369882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - CPF Bishan Svc Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.848305, 1.35058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bishan Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.848312, 1.351064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Junction 8",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.848209, 1.350585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Junction 8",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.848433, 1.351035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Raffles Girls' Sch (Sec)",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84643, 1.341069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Toa Payoh Rise",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846406, 1.340744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Toa Payoh North",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847441, 1.340672]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - HDB Hub",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847724, 1.332376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Toa Payoh Bus Int",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847578, 1.332316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Toa Payoh Ctrl",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84732, 1.332994]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Toa Payoh West CC",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846517, 1.333279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Tan Tock Seng Hosp",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844389, 1.321095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Velocity",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84334, 1.319896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Goldbell Twrs",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.837881, 1.312598]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Newton Food Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.838219, 1.312075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Tang Plaza",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832524, 1.304892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Lucky Plaza",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.83262, 1.304354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Wisma Atria",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832771, 1.304161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Wheelock Pl / Shaw House",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.83204, 1.30456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - 111 Somerset",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.838399, 1.300028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - 313@somerset",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.838459, 1.300767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Orchard Gateway",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.838766, 1.300436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Orchard Central",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.839734, 1.300241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Penang Rd / National Museum of Singapore",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846788, 1.298445]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Penang Ln",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84523, 1.299056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Marina One",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.854312, 1.277456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Marina Bay Cruise Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.86233, 1.27053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Gardens by the Bay",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.86358, 1.271438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - HarbourFront Bus Int",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.820468, 1.266013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - HarbourFront Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.820509, 1.265155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Temenggong Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.821399, 1.265979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - National Cancer Ctr / National Heart Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.838537, 1.279051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Police Cantonment Cplx",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.839549, 1.278947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Dorsett Residences",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.840387, 1.280213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Temple St",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.843798, 1.283713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - The Majestic / People's Park Cplx",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.842813, 1.284675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - People's Park Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.843476, 1.285406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Chinatown Point",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844428, 1.285044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Hong Lim Park",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846065, 1.286899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Merchant Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.845903, 1.287806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Boat Quay",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846666, 1.289384]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Eu Tong Sen St",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.847033, 1.289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - The Central",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84713, 1.289406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit G - Clarke Quay Central",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846594, 1.289199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Istana Park",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844748, 1.299649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Plaza Singapura",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84503, 1.299931]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - The Atrium@Orchard",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.845372, 1.299748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - Handy Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.845842, 1.299635]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Mackenzie Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84936, 1.305605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Tekka Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.849705, 1.306352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Race Course Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.850322, 1.307426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Owen Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.854773, 1.312327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Tessensohn Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.854764, 1.313544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Birch Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.853267, 1.311911]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Gloucester Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.852975, 1.312454]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Farrer Park Pr Sch",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.852651, 1.311884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - Roberts Ln",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.853199, 1.311422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit G - Serangoon Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855501, 1.312259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit H - City Square Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.856099, 1.311884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit I - Kitchener Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855807, 1.311766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - St George's Ln",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.861502, 1.320107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bendemeer Mkt & Food Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.861904, 1.319235]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Towner Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.860707, 1.317915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Potong Pasir Est",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.868966, 1.332801]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Sennett Residence",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.869333, 1.331148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - The Poiz Residences",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.868704, 1.331067]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Upp Aljunied Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.870941, 1.338511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Woodleigh Ln",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.870508, 1.338583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Bidadari Park Dr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.871054, 1.339867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Woodleigh Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8710442, 1.3385096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Serangoon Ave 1 (Blk 413)",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.873957, 1.349482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Serangoon Ctrl",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.873641, 1.349834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Serangoon Ctrl (Blk 206)",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.873694, 1.350595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Upp Serangoon Rd / Lor Lew Lian (Blk 416)",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.874322, 1.349902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit H - Upp Serangoon Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.873546, 1.349728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - The Helping Hand",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.884307, 1.359708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Kovan Residences",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.884722, 1.360206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Heartland Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.885451, 1.360028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Hougang Ctrl Bus Int",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.892446, 1.370209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Hougang Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.892972, 1.371946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Hougang Ave 10",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.891975, 1.372142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Sengkang Grand Residences",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.892884, 1.38341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - The Quartz",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.893463, 1.38265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Compass One",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.895406, 1.391829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Compass Heights",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.895637, 1.391796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Compassvale Dr",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.895209, 1.390882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Sengkang East Way",
+        "code": "Exit D",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.895705, 1.392371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Waterway Point",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.902306, 1.40534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Punggol Pl",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.902598, 1.405186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Punggol Temp Bus Int",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.902116, 1.404301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Punggol Walk",
+        "code": "Exit D",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.901799, 1.404438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Sentul Walk",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.909195, 1.41477]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Punggol Way",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.911287, 1.415164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - SMU Admin Bldg",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851327, 1.296859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - SMU Sch of Law",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.850474, 1.296046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - SMU Sch of Info Sys",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.85025, 1.297014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Bras Basah Rd",
+        "code": "Exit D",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.850158, 1.297551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Singapore Art Museum",
+        "code": "Exit E",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.850423, 1.297535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Suntec City",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.856306, 1.293371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Raffles Blvd",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.856176, 1.292927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Nicoll Hwy",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855855, 1.292904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - One Raffles Link",
+        "code": "Exit D",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855834, 1.292624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - War Memorial Park",
+        "code": "Exit E",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855568, 1.293129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - South Beach Residences",
+        "code": "Exit F",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855105, 1.29382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit G - Raffles City",
+        "code": "Exit G",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.85492, 1.293586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Raffles Blvd",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.860674, 1.291712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Millenia Walk",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.860137, 1.293862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Suntec City",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.860236, 1.294103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Nicoll Hwy",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.863506, 1.30017]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Republic Ave",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.864152, 1.299661]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Kallang Wave Mall",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8744, 1.302511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Singapore Sports Hub",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.876226, 1.30337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Mountbatten Ctr",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.882598, 1.306753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Dakota Cres",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.883248, 1.306046]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Jln Dua",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.889307, 1.308814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Dakota Cres",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.887979, 1.308097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Lifelong Learning Institute",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.892217, 1.318347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Geylang East Ctrl",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.891721, 1.318149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Sims Ave",
+        "code": "Exit D",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.892078, 1.316588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - PLQ Mall",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.892429, 1.317292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Lor Bengkok",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.889793, 1.326679]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Arumugam Rd",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.890666, 1.325855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - MacPherson Spring",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.890263, 1.325482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Irving Rd",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.887627, 1.335914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Harper Rd",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.888214, 1.334621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - 18 Tai Seng",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.888116, 1.336142]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Mt Vernon Rd",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.880256, 1.342249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bartley Chr Ch",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.878909, 1.343501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Serangoon Ctrl",
+        "code": "Exit E",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.872902, 1.35082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - Serangoon Ave 2",
+        "code": "Exit F",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.871449, 1.350948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit G - NEX / Serangoon Bus Int",
+        "code": "Exit G",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.872867, 1.35079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Serangoon Ave 3",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.864934, 1.351439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Lor Chuan / New Tech Park",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.862918, 1.351739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Bishan Bus Int / Bishan CC",
+        "code": "Exit D",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.850201, 1.351053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Marymount Ln / Shunfu Rd",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.839088, 1.34898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bishan St 21 / Jln Pemimpin",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.840059, 1.347866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Thomson Rd",
+        "code": "Exit 1",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.839407, 1.337105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Botanic Gardens",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.814977, 1.322535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Woollerton Park",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.807965, 1.317494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - St Margaret's Sec Sch",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.807389, 1.317552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Jln Rumia",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.796139, 1.31122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Lor Liput / Holland Village Mkt & Food Ctr",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.795769, 1.311069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Holland Rd Shopping Ctr",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.795754, 1.310711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - The Star Vista",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.790599, 1.306913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - The Metropolis",
+        "code": "Exit D",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.79093, 1.306298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Ayer Rajah Ave",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.786907, 1.299027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Portsdown Rd",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.787928, 1.300359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Fusionopolis View",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.787565, 1.299715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Fusionopolis",
+        "code": "Exit D",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.787785, 1.300075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - National University Hosp",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.784466, 1.294316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Science Park Dr",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.78481, 1.292428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Lower Kent Ridge Rd",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.78449, 1.293985]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - National University Hosp",
+        "code": "Exit D",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.784535, 1.293219]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Haw Par Villa",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.782006, 1.283055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - West Coast Hwy",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.79203, 1.276003]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Labrador Villa Rd",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.802356, 1.272107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - West Coast Hwy",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.809884, 1.270721]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Sentosa Gateway",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.822532, 1.26526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - VivoCity",
+        "code": "Exit E",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.82158, 1.264972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Keppel Terminal Ave",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.829507, 1.269622]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Keppel Distripark",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.829678, 1.270651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Keppel Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.830777, 1.27076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Tanjong Pagar Distripark",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.835821, 1.272044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Spottiswoode Park",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.835951, 1.274179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Cantonment Cl",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.838343, 1.273662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Tanjong Pagar Railway Stn",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.837607, 1.272707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Anson Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.845493, 1.273004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Hock Teck See Tp",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.846871, 1.273312]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Gardens by the Bay",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.858732, 1.280967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Marina Bay Sands",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.859759, 1.282705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Marina Bay Sands",
+        "code": "Exit C",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.859597, 1.282835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Sands Expo & Convention Ctr",
+        "code": "Exit D",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.859494, 1.282834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Red Dot Design Museum",
+        "code": "Exit E",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.858441, 1.281105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Sheares Ave",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.854949, 1.275709]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A1 - Jelebu Rd",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.761923, 1.379008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A2 - Hillion Mall",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.762034, 1.378766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Choa Chu Kang Rd",
+        "code": "Exit B",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.761371, 1.378619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Bukit Panjang Ring Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.761895, 1.380198]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Cashew Rd Playground",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.764234, 1.369833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Dairy Farm Rd",
+        "code": "Exit A",
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.767688, 1.362474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Hillview Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.767108, 1.362084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Beauty World Ctr / Beauty World Plaza",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.775984, 1.341696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Chun Tin Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.775451, 1.341582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Jln Jurong Kechil",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.775762, 1.339982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blackmore Dr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.78303, 1.335537]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Sime Darby Ctr",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.784562, 1.335976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Sixth Ave",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.796566, 1.33078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Eng Neo Ave",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.796848, 1.331521]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Hwa Chong JC",
+        "code": "Exit A",
+        "name2": "TAN KAH KEE MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.807799, 1.325333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Watten Estate Rd",
+        "code": "Exit B",
+        "name2": "TAN KAH KEE MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.807801, 1.326146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bukit Timah Rd",
+        "code": "Exit B",
+        "name2": "BOTANIC GARDENS MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.815914, 1.322685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Newton Rd",
+        "code": "Exit C",
+        "name2": "NEWTON MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.838242, 1.313617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bukit Timah Rd",
+        "code": "Exit B",
+        "name2": "LITTLE INDIA MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.848985, 1.306564]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Tekka Ln / Land Transport Authority Hampshire Office",
+        "code": "Exit D",
+        "name2": "LITTLE INDIA MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.849, 1.306855]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - KK Women's & Children's Hospital / Land Transport Authority Hampshire Office",
+        "code": "Exit F",
+        "name2": "LITTLE INDIA MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.848304, 1.307684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - LASALLE College of the Arts",
+        "code": "Exit A",
+        "name2": "ROCHOR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.852375, 1.303404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Perak Rd",
+        "code": "Exit B",
+        "name2": "ROCHOR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.853104, 1.304215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Tan Quee Lan St",
+        "code": "Exit D",
+        "name2": "BUGIS MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.856891, 1.299079]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Duo Towers",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8575577, 1.2991765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - Guoco Midtown",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8575062, 1.2991317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Marina View",
+        "code": "Exit A",
+        "name2": "DOWNTOWN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.852647, 1.279773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - MBFC Twr 3",
+        "code": "Exit B",
+        "name2": "DOWNTOWN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.852908, 1.279601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - MBFC Twr 2",
+        "code": "Exit C",
+        "name2": "DOWNTOWN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.853152, 1.279444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Straits View",
+        "code": "Exit D",
+        "name2": "DOWNTOWN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.853014, 1.279176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Asia Sq",
+        "code": "Exit E",
+        "name2": "DOWNTOWN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.852478, 1.279528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - One Raffles Quay",
+        "code": "Exit F",
+        "name2": "DOWNTOWN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.852428, 1.279796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Boon Tat St",
+        "code": "Exit A",
+        "name2": "TELOK AYER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.848507, 1.281887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Far East Sq",
+        "code": "Exit B",
+        "name2": "TELOK AYER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.848773, 1.282497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Manulife Twr",
+        "code": "Exit C",
+        "name2": "TELOK AYER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.848842, 1.282251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - Hong Lim Cplx",
+        "code": "Exit F",
+        "name2": "CHINATOWN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.845463, 1.284275]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit G - Chinatown Point",
+        "code": "Exit G",
+        "name2": "CHINATOWN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844459, 1.284736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - UE Square",
+        "code": "Exit A",
+        "name2": "FORT CANNING MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84417, 1.292406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Fort Canning Park",
+        "code": "Exit B",
+        "name2": "FORT CANNING MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844425, 1.29283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Waterloo St",
+        "code": "Exit A",
+        "name2": "BENCOOLEN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.850843, 1.299195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Rendezvous Hotel",
+        "code": "Exit B",
+        "name2": "BENCOOLEN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.84956, 1.298199]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - SMU School of Info Sys",
+        "code": "Exit C",
+        "name2": "BENCOOLEN MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.849272, 1.297699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Weld Rd",
+        "code": "Exit A",
+        "name2": "JALAN BESAR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855296, 1.30489]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Upper Weld Rd",
+        "code": "Exit B",
+        "name2": "JALAN BESAR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855245, 1.305467]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Jln Lembah Kallang",
+        "code": "Exit A",
+        "name2": "BENDEMEER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.863074, 1.313853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Kallang Ave",
+        "code": "Exit B",
+        "name2": "BENDEMEER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.863219, 1.313481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Kallang Basin Swimming Cplx",
+        "code": "Exit A",
+        "name2": "GEYLANG BAHRU MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.871556, 1.321562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Geylang Bahru Terr",
+        "code": "Exit B",
+        "name2": "GEYLANG BAHRU MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.871794, 1.321109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Merpati Rd",
+        "code": "Exit A",
+        "name2": "MATTAR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.882732, 1.327251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Mattar Rd",
+        "code": "Exit B",
+        "name2": "MATTAR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.883748, 1.326464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Circuit Rd",
+        "code": "Exit D",
+        "name2": "MACPHERSON MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.888455, 1.325145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Circuit Rd Mkt & Food Ctr",
+        "code": "Exit E",
+        "name2": "MACPHERSON MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.888615, 1.326193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Ubi Ave 1",
+        "code": "Exit A",
+        "name2": "UBI MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.899877, 1.329951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Ubi Rd 3",
+        "code": "Exit B",
+        "name2": "UBI MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.898586, 1.329831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Kaki Bukit Ave 1",
+        "code": "Exit A",
+        "name2": "KAKI BUKIT MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.909405, 1.335311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Jln Damai",
+        "code": "Exit B",
+        "name2": "KAKI BUKIT MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.909146, 1.334922]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Bedok Reservoir Cres",
+        "code": "Exit A",
+        "name2": "BEDOK NORTH MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.91805, 1.335126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bedok Town Park",
+        "code": "Exit B",
+        "name2": "BEDOK NORTH MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.919063, 1.334166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Bedok Reservoir Food Ctr",
+        "code": "Exit C",
+        "name2": "BEDOK NORTH MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.917811, 1.334423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Bedok Town Park",
+        "code": "Exit A",
+        "name2": "BEDOK RESERVOIR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.932887, 1.336348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Bedok Reservoir View",
+        "code": "Exit B",
+        "name2": "BEDOK RESERVOIR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.933487, 1.336555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Tampines Ave 4",
+        "code": "Exit A",
+        "name2": "TAMPINES WEST MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.938197, 1.345631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - SAFRA Tampines",
+        "code": "Exit B",
+        "name2": "TAMPINES WEST MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.938949, 1.344999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Tampines Bus Int",
+        "code": "Exit D",
+        "name2": "TAMPINES MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.943678, 1.354871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Tampines Concourse Bus Int",
+        "code": "Exit E",
+        "name2": "TAMPINES MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.942659, 1.355853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - Tampines Ctrl 2",
+        "code": "Exit F",
+        "name2": "TAMPINES MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.942654, 1.354194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit G - Tampines Ctrl 1",
+        "code": "Exit G",
+        "name2": "TAMPINES MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.942723, 1.354596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Tampines North Park",
+        "code": "Exit A",
+        "name2": "TAMPINES EAST MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.95454, 1.356461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Tampines East CC",
+        "code": "Exit B",
+        "name2": "TAMPINES EAST MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.95517, 1.355588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Ngee Ann Sec Sch",
+        "code": "Exit C",
+        "name2": "TAMPINES EAST MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.955705, 1.355553]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Tampines St 45",
+        "code": "Exit D",
+        "name2": "TAMPINES EAST MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.955717, 1.35697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Meragi Rd",
+        "code": "Exit A",
+        "name2": "UPPER CHANGI MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.960961, 1.342007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Singapore University of Tech Design",
+        "code": "Exit B",
+        "name2": "UPPER CHANGI MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.961476, 1.341038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Changi Bethany Ch",
+        "code": "Exit C",
+        "name2": "UPPER CHANGI MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.961617, 1.341993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Jln Tiga Ratus / Simei Rd",
+        "code": "Exit D",
+        "name2": "UPPER CHANGI MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.961043, 1.34084]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Singapore Expo Halls 7-12 / Max Pavilion",
+        "code": "Exit C",
+        "name2": "EXPO MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.962161, 1.335951]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Changi Business Park Ctrl 1",
+        "code": "Exit D",
+        "name2": "EXPO MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.963101, 1.334835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Changi City Point / Changi South Ave 2",
+        "code": "Exit E",
+        "name2": "EXPO MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.962123, 1.334863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit F - Changi City Point",
+        "code": "Exit F",
+        "name2": "EXPO MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.962866, 1.334712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit G - Changi Business Park Ave 1",
+        "code": "Exit G",
+        "name2": "EXPO MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.963049, 1.335019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Xilin Districentre",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.964357, 1.32946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Changi South St 3",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.965498, 1.328833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Laguna Golf Green",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.964387, 1.328686]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Bedok Rd",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.955575, 1.320069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Bedok Camp",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.955691, 1.319498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Eastwood Regency",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.957665, 1.320968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Laguna 88",
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.958376, 1.32136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Republic Poly",
+        "Nat": null,
+        "code": "Exit 1",
+        "name2": "WOODLANDS NORTH MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.785429, 1.447937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Woodlands North Coast Rd",
+        "Nat": null,
+        "code": "Exit 2",
+        "name2": "WOODLANDS NORTH MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.785102, 1.449047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Woodlands Ave 7",
+        "Nat": null,
+        "code": "Exit 4",
+        "name2": "WOODLANDS MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.788005, 1.43754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Woodlands Ave 2",
+        "Nat": null,
+        "code": "Exit 5",
+        "name2": "WOODLANDS MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.788964, 1.435844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - Woodlands Ave 5 (Blk 512)",
+        "Nat": null,
+        "code": "Exit 6",
+        "name2": "WOODLANDS MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.789089, 1.434815]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 7 - Woodlands Civic Ctr / Woods Sq / Blk 366",
+        "Nat": null,
+        "code": "Exit 7",
+        "name2": "WOODLANDS MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.787977, 1.434496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - ACE The Place CC",
+        "Nat": null,
+        "code": "Exit 1",
+        "name2": "WOODLANDS SOUTH MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.793027, 1.427302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Blk 541",
+        "Nat": null,
+        "code": "Exit 2",
+        "name2": "WOODLANDS SOUTH MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.793414, 1.427605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Blk 588",
+        "Nat": null,
+        "code": "Exit 3",
+        "name2": "WOODLANDS SOUTH MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.79456, 1.427427]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Woodlands Dr 16",
+        "Nat": null,
+        "code": "Exit 4",
+        "name2": "WOODLANDS SOUTH MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.794424, 1.426684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Woodlands Health Campus",
+        "Nat": null,
+        "code": "Exit 5",
+        "name2": "WOODLANDS SOUTH MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.794365, 1.425843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Thong Soon Green",
+        "Nat": null,
+        "code": "Exit 1",
+        "name2": "SPRINGLEAF MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.818003, 1.398787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Springleaf Rd",
+        "Nat": null,
+        "code": "Exit 2",
+        "name2": "SPRINGLEAF MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.818391, 1.397821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Upp Thomson Rd",
+        "Nat": null,
+        "code": "Exit 3",
+        "name2": "SPRINGLEAF MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.818082, 1.397684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Lentor Hills Rd",
+        "Nat": null,
+        "code": "Exit 1",
+        "name2": "LENTOR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.83536, 1.38541]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Florissa Park",
+        "Nat": null,
+        "code": "Exit 2",
+        "name2": "LENTOR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.835823, 1.385891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Lentor Green",
+        "Nat": null,
+        "code": "Exit 3",
+        "name2": "LENTOR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.837398, 1.384602]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - The Calrose",
+        "Nat": null,
+        "code": "Exit 4",
+        "name2": "LENTOR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.837339, 1.383628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Thomson Grove",
+        "Nat": null,
+        "code": "Exit 5",
+        "name2": "LENTOR MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.83684, 1.384162]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Blk 114",
+        "Nat": null,
+        "code": "Exit 1",
+        "name2": "MAYFLOWER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.836717, 1.372704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Ang Mo Kio St 13",
+        "Nat": null,
+        "code": "Exit 2",
+        "name2": "MAYFLOWER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.837032, 1.37372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Mayflower Ave",
+        "Nat": null,
+        "code": "Exit 3",
+        "name2": "MAYFLOWER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.837461, 1.373532]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Ang Mo Kio St 11",
+        "Nat": null,
+        "code": "Exit 4",
+        "name2": "MAYFLOWER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.836796, 1.371276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Blk 109",
+        "Nat": null,
+        "code": "Exit 5",
+        "name2": "MAYFLOWER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.83676, 1.370777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - Blk 256",
+        "Nat": null,
+        "code": "Exit 6",
+        "name2": "MAYFLOWER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.836309, 1.370896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 7 - Blk 112",
+        "Nat": null,
+        "code": "Exit 7",
+        "name2": "MAYFLOWER MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.836285, 1.371377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Sin Ming Walk",
+        "Nat": null,
+        "code": "Exit 1",
+        "name2": "BRIGHT HILL MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833635, 1.364037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Blk 406",
+        "Nat": null,
+        "code": "Exit 2",
+        "name2": "BRIGHT HILL MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833511, 1.363283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Fulton Rd",
+        "Nat": null,
+        "code": "Exit 3",
+        "name2": "BRIGHT HILL MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832376, 1.362184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Jln Tambur",
+        "Nat": null,
+        "code": "Exit 4",
+        "name2": "BRIGHT HILL MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.831954, 1.363164]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Thomson Plaza",
+        "Nat": null,
+        "code": "Exit 1",
+        "name2": "UPPER THOMSON MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.831916, 1.354834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Thomson View",
+        "Nat": null,
+        "code": "Exit 2",
+        "name2": "UPPER THOMSON MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.831833, 1.355737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Jln Keli",
+        "Nat": null,
+        "code": "Exit 3",
+        "name2": "UPPER THOMSON MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833925, 1.354145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Thomson Ridge",
+        "Nat": null,
+        "code": "Exit 4",
+        "name2": "UPPER THOMSON MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833794, 1.353503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Soo Chow Walk",
+        "Nat": null,
+        "code": "Exit 5",
+        "name2": "UPPER THOMSON MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832635, 1.354418]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Singapore Assoc of The Visually Handicapped",
+        "Nat": null,
+        "code": "Exit 2",
+        "name2": "CALDECOTT MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.840387, 1.33826]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Lor 1 Toa Payoh",
+        "Nat": null,
+        "code": "Exit 3",
+        "name2": "CALDECOTT MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.840465, 1.337832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Toa Payoh Link",
+        "Nat": null,
+        "code": "Exit 4",
+        "name2": "CALDECOTT MRT STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.839882, 1.336751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Onraet Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.834318, 1.328612]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Denham Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.835857, 1.328527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Robin Walk / Stevens Court",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.825977, 1.32013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - The Capri",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.825998, 1.31858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Margoliouth Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.825086, 1.319535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Whitley Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.82586, 1.321403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Dunearn Road",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.826287, 1.3209471]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Gleneagles Hosp",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.819635, 1.30689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Middlesex Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.819585, 1.306338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Tanglin Mall / Hotel Jen",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.823689, 1.303604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Orchard Blvd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.824056, 1.30258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - ION Orchard",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8320457, 1.3039282]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - Orchard Turn",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8323826, 1.3036606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 7 - Ngee Ann City / Takashimaya Shopping Ctr",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832105, 1.303116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 8 - ION Orchard / Orchard Boulevard",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8318069, 1.3034509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 9 - ION Orchard",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8315162, 1.3036947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 10 - ION Orchard / Patterson Road",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.831108, 1.304038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 11 - Wheelock Place",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8304978, 1.304223]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 12 - Cuscaden Walk",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.830528, 1.302878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 13 - Orchard Boulevard / Orchard Turn",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8322178, 1.3022528]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Kim Seng Park",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.83401, 1.293509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Great World City (U/C)",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832656, 1.292836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Kim Seng Rd (U/C)",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832857, 1.293619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - The Cosmopolitan",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832995, 1.296008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Leonie Hill (U/C)",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833124, 1.296422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - Great World Shopping Mall (U/C)",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.832608, 1.2930671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Grand Copthorne Waterfront",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.83395, 1.290202]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Holiday Inn Singapore Atrium",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833906, 1.289582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Tiong Bahru Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833843, 1.286668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Jln Bukit Ho Swee",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833505, 1.286856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Blk 95",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.833309, 1.288744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Pearl Bank",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8391658, 1.2818132]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 8 - Outram Park",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.838111, 1.282359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 7 - Singapore General Hosp",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.838666, 1.281036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Kreta Ayer CC",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.842939, 1.280281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Buddha Tooth Relic Tp",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844248, 1.281085]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - URA Centre",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.844816, 1.281016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Central Linear Pk",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.851821, 1.277461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Singapore Chinese Cultural Ctr",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.850891, 1.276972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Union St",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8501664, 1.2776342]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Asia Sq",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8509222, 1.2776932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Marina One",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8519042, 1.2770625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - UIC Bldg",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8498203, 1.2779071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Straits Blvd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.854298, 1.2748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Park St",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.855242, 1.27525]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Sheares Ave",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.856088, 1.273898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Gardens by the Bay",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.862833, 1.275319]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Marina Gardens Dr",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.86182, 1.273794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Central Blvd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.861611, 1.273547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Marina Coastal Dr",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.862745, 1.27321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Marina Grove",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.867336, 1.27854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Marina Gardens Dr",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8685, 1.280009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Gardens by the Bay",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.869005, 1.280748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Bay East Garden",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.868443, 1.29118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Marina Bay Golf Course",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.869292, 1.290608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Water Place Condo/Tanjong Ria",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.873269, 1.296674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Casuarina Cove/Pebble Bay/Tanjong Rhu Pl",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.873526, 1.297956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - The Belvedere",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.886922, 1.29746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Fulcrum/Tanjong Rhu Rd/Fort Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.885111, 1.298253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Aalto/Meyer Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.897228, 1.299078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Jln Seaview Rd/Tg Katong Rd Sth",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.897226, 1.299463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Amber Skye",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.897734, 1.29984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Parkway Ctr",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.905835, 1.302105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Katong V/Roxy Sq",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.904921, 1.302728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Joo Chiat Rd/Parc Seabreeze",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.905964, 1.303526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Marine Mansion",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.907532, 1.304462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - Marine Dr View",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.907769, 1.304178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Marine Parade Park",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.909322, 1.305357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Blk 57",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.915157, 1.306498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Blk 43",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.913317, 1.305832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Telok Kurau Rd/Jln Rendang",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.912987, 1.306621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Jln Tenggiri",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.915001, 1.306916]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - St Patrick's Sch",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.916862, 1.307428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - CHIJ Katong Convent",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.916868, 1.306876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Siglap Link/Victoria Sch",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.928779, 1.308968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Siglap Linear Park",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.928945, 1.309783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Nallur Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.931579, 1.310684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Laguna Park",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.930941, 1.309986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - East Coast Park",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.941188, 1.311886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Costa De Sol",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.940604, 1.312208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Upp East Coast Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.940741, 1.313713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Sea Pavilion Residences",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.942299, 1.313366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - East Coast Park",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.942465, 1.312894]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Siglap CC",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.947471, 1.317381]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Temasek Sec Sch",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.947755, 1.316947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Kew Green",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.950179, 1.318025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - East Coast Park",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.94867, 1.314896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Laguna Practice Driving Range",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.950164, 1.3154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Gek Poh Shopping Ctr",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6973644, 1.3485038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 747",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6973591, 1.3483547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 749",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6982576, 1.3482502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - CleanTech Park",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6918634, 1.3508834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Lor Tawas",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.692256, 1.3505255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - NTU Sports and Rec Ctr",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6921123, 1.3503534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Nanyang Meadows Staff Housing",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6916756, 1.3506485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Binjai Hall / Tanjong Hall / Banyan Hall",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6871004, 1.3543786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 21",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6865207, 1.3533348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 49",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6861854, 1.3534716]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 53",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6867433, 1.3543297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Nanyang Walk",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6815528, 1.3489932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - LT1A",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.680319, 1.3476632]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - National Institute of Education",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6806463, 1.3486286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - School of Biological Sciences",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6784967, 1.3441348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - School of Electrical and Electronic Engineering",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6789935, 1.3423184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Wee Kim Wee Sch of Comm and Info",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6792724, 1.3420958]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Bukit Batok Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7366556, 1.352903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Dulwich College",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.737302, 1.3527851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Millennia Institute",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.736964, 1.3520021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Plantation Loop",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7368219, 1.3519699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Plantation Cres",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7365536, 1.3528655]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Bukit Batok Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.739086, 1.345934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 172",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7397065, 1.3457457]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Pan-Island Expressway",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7396529, 1.3455366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Jurong East St 24",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7396698, 1.3447406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Jurong Town Hall Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7389919, 1.345711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - St. Joseph's Canossian Convent",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7084478, 1.3495538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 183D",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.708636, 1.3492833]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 181A",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.708004, 1.3488783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Soka Culture Ctr",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7033248, 1.3467325]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 676",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7040758, 1.3463839]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 675",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7027562, 1.3454937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 674B",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7023163, 1.3453864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 736",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7016136, 1.3463303]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Jurong West Tel Exchange",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.702268, 1.3462391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Jurong Point",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7047408, 1.338462]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Boon Lay Way",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7050549, 1.3374813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 662D",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7045184, 1.3373204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Blk 664B",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7040322, 1.3386486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Chin Bee Ave",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7087694, 1.3331544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Quality Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7085549, 1.3322266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Wan Lee Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7081591, 1.3322879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Quality Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7093691, 1.3257181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - JTC MedTech Hub",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7095724, 1.3249426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Tractor Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7091849, 1.3248675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - International Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7089757, 1.3256237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Jln Pesawat",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7104897, 1.3189562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Mecomb",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.710302, 1.3182161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Jln Buroh",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7095801, 1.3177173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Jurong Bird Park",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7098857, 1.3190272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Changi Coast Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.0043114, 1.3701438]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Selarang Way",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9734385, 1.3721961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Selarang Ring Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9719531, 1.370781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Loyang Tua Pek Kong Tp",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9705315, 1.3703466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Loyang Ave",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9710518, 1.3697192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Blk 104",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9589695, 1.3679788]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Pasir Ris East CC",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9591036, 1.3682496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Blk 211",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9610094, 1.3668816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Blk 197",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.960759, 1.366638]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Pasir Ris Mall (U/C)",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9482519, 1.3720149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Blk 570",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9470878, 1.3724654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Blk 524A",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9479193, 1.3715108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - Blks 537/528",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.949579, 1.370153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 7 - Pasir Ris Town Pk",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9512927, 1.3698483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Tampines North Hub (U/C)",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.938146, 1.3679018]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Tampines St 64",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9369283, 1.3681592]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Tampines Link",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9379797, 1.3698646]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Tampines North Bus Int",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9385386, 1.3695074]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Defu Lane 1",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8976295, 1.3617113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Serangoon River Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8980694, 1.3631217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Tampines Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9004029, 1.3625961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Defu Ave 2",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.9004834, 1.3620759]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Blk 513",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8905861, 1.3722442]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Blk 831",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8895714, 1.371156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - Blk 834",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8902554, 1.3695498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Blk 153",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.871938, 1.370824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Blk 553",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.870817, 1.371674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Blk 516",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.873221, 1.371087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Bowen Sec Sch",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.877125, 1.37016]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Masjid Al-Istiqamah",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.874712, 1.36906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Serangoon Gdn Way",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8618723, 1.3692925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Ang Mo Kio Ind Pk 2",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8619061, 1.3701104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Ang Mo Kio Ave 12\n",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8640253, 1.3708739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Tavistock Ave Pk",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8651539, 1.3705512]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Ang Mo Kio South NPC",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8505169, 1.3693943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Ang Mo Kio 3G Ctr",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8496318, 1.3702846]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 7 - AMK Hub",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8489327, 1.3689758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 8 - Blk 343",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8493619, 1.3686755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 9 - Blk 424",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8505152, 1.3688953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 10 - Blks 425/426",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.852543, 1.3694477]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 11 - Blk 587",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8522533, 1.3699465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 1 - Blk 310A",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.843607, 1.3644884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 2 - Bishan-Ang Mo Kio Pk",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8434568, 1.3639253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 3 - Ang Mo Kio Ave 1",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.842223, 1.3640218]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 4 - Blk 218",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8427347, 1.3647233]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Blk 206",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8436896, 1.3662946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - Blk 304",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8444728, 1.3664555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 5 - Blk 408",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.834931, 1.3635847]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 6 - Kong Meng San Tp",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.837562, 1.3624737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 7 - Bishan-Ang Mo Kio \nPk",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8373029, 1.3630599]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 8 - Sin Ming Ave",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8354866, 1.3639758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Teban Gardens Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.744934, 1.3208796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Pandan Gardens",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7450927, 1.3208148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Jurong Town Hall Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7448292, 1.3203422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - Commonwealth Sec Sch",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7451323, 1.3200901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit 0 - West Coast Rd",
+        "Nat": null,
+        "code": null,
+        "name2": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7446629, 1.320361]
+      }
+    }
+  ]
+}

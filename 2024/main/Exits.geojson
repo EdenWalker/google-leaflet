@@ -1,0 +1,600 @@
+{
+  "type": "FeatureCollection",
+  "name": "Exits",
+  "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit E - Lot One Shoppers' Mall",
+        "code": "Exit E",
+        "name2": "CHOA CHU KANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.74462, 1.385] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 277",
+        "code": "Exit A",
+        "name2": "SOUTH VIEW LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.745101, 1.380318] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 122",
+        "code": "Exit A",
+        "name2": "KEAT HONG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.749227, 1.378465] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 102",
+        "code": "Exit A",
+        "name2": "TECK WHYE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.753826, 1.376564] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 152",
+        "code": "Exit A",
+        "name2": "PHOENIX LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.758252, 1.378614] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Hillion Mall",
+        "code": "Exit A",
+        "name2": "BUKIT PANJANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.763064, 1.37802] }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Petir Rd",
+        "code": "Exit B",
+        "name2": "BUKIT PANJANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.763179, 1.377863] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit C - Petir Rd",
+        "code": "Exit C",
+        "name2": "BUKIT PANJANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.762723, 1.377928] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit D - Hillion Mall",
+        "code": "Exit D",
+        "name2": "BUKIT PANJANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.763252, 1.378024] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 108",
+        "code": "Exit A",
+        "name2": "PETIR LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.766793, 1.377603] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 229",
+        "code": "Exit A",
+        "name2": "PENDING LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.771328, 1.376297] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 255",
+        "code": "Exit A",
+        "name2": "BANGKIT LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.772591, 1.379853] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 445",
+        "code": "Exit A",
+        "name2": "FAJAR LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.770676, 1.384465] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 510",
+        "code": "Exit A",
+        "name2": "SEGAR LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.76941, 1.387812] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 525",
+        "code": "Exit A",
+        "name2": "JELAPANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.764677, 1.386833] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 102A",
+        "code": "Exit A",
+        "name2": "COVE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.905929, 1.399124] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 198",
+        "code": "Exit B",
+        "name2": "COVE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.906176, 1.399303] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 108",
+        "code": "Exit A",
+        "name2": "MERIDIAN LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.908966, 1.396681] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 173A",
+        "code": "Exit B",
+        "name2": "MERIDIAN LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.908869, 1.397122] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 128A",
+        "code": "Exit A",
+        "name2": "CORAL EDGE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.912652, 1.393685] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Punggol Plaza",
+        "code": "Exit B",
+        "name2": "CORAL EDGE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.912709, 1.393971] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Tebing Ln",
+        "code": "Exit A",
+        "name2": "RIVIERA LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.916263, 1.394326] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 166A",
+        "code": "Exit B",
+        "name2": "RIVIERA LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.915935, 1.394559] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 663",
+        "code": "Exit A",
+        "name2": "KADALOOR LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.916387, 1.399809] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 639",
+        "code": "Exit B",
+        "name2": "KADALOOR LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.916517, 1.399411] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 681",
+        "code": "Exit A",
+        "name2": "OASIS LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.912646, 1.402507] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 617A",
+        "code": "Exit B",
+        "name2": "OASIS LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.912755, 1.402104] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 677A",
+        "code": "Exit A",
+        "name2": "DAMAI LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.908792, 1.405285] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 612",
+        "code": "Exit B",
+        "name2": "DAMAI LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.908614, 1.405046] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - SAFRA Punggol",
+        "code": "Exit A",
+        "name2": "SAM KEE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.905039, 1.409703] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Punggol Waterway Park",
+        "code": "Exit B",
+        "name2": "SAM KEE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.904792, 1.409828] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - SIT Punggol Campus",
+        "code": "Exit A",
+        "name2": "TECK LEE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.906782, 1.412876] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Ponggol Seventeenth Ave",
+        "code": "Exit B",
+        "name2": "TECK LEE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.906511, 1.412929] }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Northshore Cres",
+        "code": "Exit A",
+        "name2": "PUNGGOL POINT LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.906818, 1.416915] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Ponggol Seventeenth Ave",
+        "code": "Exit B",
+        "name2": "PUNGGOL POINT LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.906693, 1.416664] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Northshore Plaza",
+        "code": "Exit A",
+        "name2": "SAMUDERA LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.901912, 1.415865] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Whiteshores",
+        "code": "Exit B",
+        "name2": "SAMUDERA LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.902362, 1.415906] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 327B",
+        "code": "Exit A",
+        "name2": "NIBONG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.900074, 1.411773] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 312",
+        "code": "Exit B",
+        "name2": "NIBONG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.900532, 1.41191] }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 314B",
+        "code": "Exit A",
+        "name2": "SUMANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.898336, 1.408368] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 308C",
+        "code": "Exit B",
+        "name2": "SUMANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.898757, 1.408488] }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 260A",
+        "code": "Exit A",
+        "name2": "SOO TECK LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.89703, 1.405015] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 266C",
+        "code": "Exit B",
+        "name2": "SOO TECK LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.897409, 1.405245] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - The Vales",
+        "code": "Exit A",
+        "name2": "CHENG LIM LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.893685, 1.396373] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Sengkang General Hosp",
+        "code": "Exit B",
+        "name2": "CHENG LIM LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.89392, 1.396187] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 334C",
+        "code": "Exit A",
+        "name2": "FARMWAY LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.889407, 1.3972] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 330",
+        "code": "Exit B",
+        "name2": "FARMWAY LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.889115, 1.397133] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Sengkang Riverside Park",
+        "code": "Exit A",
+        "name2": "KUPANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.881139, 1.398284] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 473A",
+        "code": "Exit B",
+        "name2": "KUPANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.881138, 1.398159] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 436D",
+        "code": "Exit A",
+        "name2": "FERNVALE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.876262, 1.392158] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - High Park Residences",
+        "code": "Exit A",
+        "name2": "THANGGAM LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.875566, 1.397198] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Fernvale Vines",
+        "code": "Exit B",
+        "name2": "THANGGAM LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.875687, 1.397192] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 417",
+        "code": "Exit A",
+        "name2": "LAYAR LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.88016, 1.392026] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - H2O Residences",
+        "code": "Exit B",
+        "name2": "LAYAR LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.880143, 1.392145] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Sengkang Depot",
+        "code": "Exit A",
+        "name2": "TONGKANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.885962, 1.38918] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 308C",
+        "code": "Exit B",
+        "name2": "TONGKANG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.886084, 1.389378] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Sengkang East Rd",
+        "code": "Exit A",
+        "name2": "RENJONG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.890409, 1.386698] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 303",
+        "code": "Exit B",
+        "name2": "RENJONG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.890438, 1.386814] }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 253",
+        "code": "Exit A",
+        "name2": "COMPASSVALE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.900616, 1.394328] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 297B",
+        "code": "Exit B",
+        "name2": "COMPASSVALE LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.900707, 1.394534] }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 146",
+        "code": "Exit A",
+        "name2": "RUMBIA LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.906019, 1.39134] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 153",
+        "code": "Exit B",
+        "name2": "RUMBIA LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.906106, 1.391414] }
+    },{
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 135",
+        "code": "Exit A",
+        "name2": "BAKAU LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.905446, 1.388185] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 122E",
+        "code": "Exit B",
+        "name2": "BAKAU LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.905482, 1.387841] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 113",
+        "code": "Exit A",
+        "name2": "KANGKAR LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.902148, 1.384075] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 117A",
+        "code": "Exit B",
+        "name2": "KANGKAR LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.902276, 1.383765] }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit A - Blk 208",
+        "code": "Exit A",
+        "name2": "RANGGUNG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.897322, 1.384176] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Exit B - Blk 267",
+        "code": "Exit B",
+        "name2": "RANGGUNG LRT STATION"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.897224, 1.384105] }
+    }
+
+  ]
+} 

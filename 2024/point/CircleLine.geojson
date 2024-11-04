@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "name": "Circle Line",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature","properties": {"Name": "Dhoby Ghaut","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.845816, 1.299082]
+      }},{
+      "type": "Feature","properties": {"Name": "Bras Basah","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.850737, 1.296946]
+      }},{
+      "type": "Feature","properties": {"Name": "Esplanade","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.855374, 1.293941]
+      }},{
+      "type": "Feature","properties": {"Name": "Promenade","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.860504, 1.29403]
+      }},{
+      "type": "Feature","properties": {"Name": "Nicoll Highway","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.863471, 1.300206]
+      }},{
+      "type": "Feature","properties": {"Name": "Stadium","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.875405, 1.302784]
+      }},{
+      "type": "Feature","properties": {"Name": "Mountbatten","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.883153, 1.306084]
+      }},{
+      "type": "Feature","properties": {"Name": "Dakota","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.888814, 1.30841]
+      }},{
+      "type": "Feature","properties": {"Name": "Paya Lebar","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.891938, 1.318574]
+      }},{
+      "type": "Feature","properties": {"Name": "MacPherson","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.88989, 1.326705]
+      }},{
+      "type": "Feature","properties": {"Name": "Tai Seng","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.887717, 1.335877]
+      }},{
+      "type": "Feature","properties": {"Name": "Bartley","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.879638, 1.34287]
+      }},{
+      "type": "Feature","properties": {"Name": "Serangoon","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.873024, 1.350268]
+      }},{
+      "type": "Feature","properties": {"Name": "Lorong Chuan","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.864455, 1.351709]
+      }},{
+      "type": "Feature","properties": {"Name": "Bishan","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.848673, 1.351346]
+      }},{
+      "type": "Feature","properties": {"Name": "Marymount","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.839288, 1.348773]
+      }},{
+      "type": "Feature","properties": {"Name": "Caldecott","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.839606, 1.337595]
+      }},{
+      "type": "Feature","properties": {"Name": "Bukit Brown","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.83103, 1.334218]
+      }},{
+      "type": "Feature","properties": {"Name": "Botanic Gardens","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.814927, 1.322311]
+      }},{
+      "type": "Feature","properties": {"Name": "Farrer Road","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.807712, 1.317574]
+      }},{
+      "type": "Feature","properties": {"Name": "Holland Village","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.796141, 1.311146]
+      }},{
+      "type": "Feature","properties": {"Name": "Buona Vista","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.790618, 1.306411]
+      }},{
+      "type": "Feature","properties": {"Name": "one-north","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.787595, 1.299811]
+      }},{
+      "type": "Feature","properties": {"Name": "Kent Ridge","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.784451, 1.293587]
+      }},{
+      "type": "Feature","properties": {"Name": "Haw Par Villa","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.78198, 1.283106]
+      }},{
+      "type": "Feature","properties": {"Name": "Pasir Panjang","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.791904, 1.276068]
+      }},{
+      "type": "Feature","properties": {"Name": "Labrador Park","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.802558, 1.272126]
+      }},{
+      "type": "Feature","properties": {"Name": "Telok Blangah","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.809877, 1.270716]
+      }},{
+      "type": "Feature","properties": {"Name": "HarbourFront","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.821454, 1.265789]
+      }},{
+      "type": "Feature","properties": {"Name": "Bayfront","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.858955, 1.281337]
+      }},{
+      "type": "Feature","properties": {"Name": "Marina Bay","code": null,"name2": null
+      },"geometry": {"type": "Point","coordinates": [103.855698, 1.276596]
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature","properties": { "Name": "Punggol", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.90233728, 1.40528217] }},{
+      "type": "Feature","properties": { "Name": "Cove", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.9059175, 1.39936175] }},{
+      "type": "Feature","properties": { "Name": "Meridian", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.90899075, 1.39685225] }},{
+      "type": "Feature","properties": { "Name": "Coral Edge", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.9125635, 1.39392625] }},{
+      "type": "Feature","properties": { "Name": "Riviera", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.91622375, 1.3946365] }},{
+      "type": "Feature","properties": { "Name": "Kadaloor", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.916395, 1.3996385] }},{
+      "type": "Feature","properties": { "Name": "Oasis", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.912632, 1.40235075] }},{
+      "type": "Feature","properties": { "Name": "Damai", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.9085035, 1.405341] }},{
+      "type": "Feature","properties": { "Name": "Sam Kee", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.9048852, 1.4096728] }},{
+      "type": "Feature","properties": { "Name": "Teck Lee", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.906626, 1.41284825] }},{
+      "type": "Feature","properties": { "Name": "Punggol Point", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.9065355, 1.4169115] }},{
+      "type": "Feature","properties": { "Name": "Samudera", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.9020875, 1.41581375] }},{
+      "type": "Feature","properties": { "Name": "Nibong", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.900299, 1.41175625] }},{
+      "type": "Feature","properties": { "Name": "Sumang", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.8984581, 1.4083225] }},{
+      "type": "Feature","properties": { "Name": "Soo Teck", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.897235, 1.40520] }
+    }
+    
+  ]
+}

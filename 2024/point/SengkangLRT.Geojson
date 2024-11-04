@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature","properties": { "Name": "Cheng Lim", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.8940838, 1.3962492] }},{
+      "type": "Feature","properties": { "Name": "Farmway", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.88938275, 1.397162] }},{
+      "type": "Feature","properties": { "Name": "Kupang", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.88137375, 1.3981975] }},{
+      "type": "Feature","properties": { "Name": "Fernvale", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.8760932, 1.39188773] }},{
+      "type": "Feature","properties": { "Name": "Thanggam", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.875655, 1.3974345] }},{
+      "type": "Feature","properties": { "Name": "Layar", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.880157, 1.39209525] }},{
+      "type": "Feature","properties": { "Name": "Tongkang", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.88593, 1.38933875] }},{
+      "type": "Feature","properties": { "Name": "Renjong", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.890424, 1.3867472] }},{
+      "type": "Feature","properties": { "Name": "Compassvale", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.900555, 1.39447925] }},{
+      "type": "Feature","properties": { "Name": "Rumbia", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.9058902, 1.3915645] }},{
+      "type": "Feature","properties": { "Name": "Bakau", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.9055265, 1.3881155] }},{
+      "type": "Feature","properties": { "Name": "Ranggung", "code": null, "name2": null },"geometry": { "type": "Point", "coordinates": [103.897493, 1.383923] }
+    }
+  ]
+}
