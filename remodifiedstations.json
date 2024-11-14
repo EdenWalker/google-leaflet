@@ -1,0 +1,210 @@
+[{"start": "Bukit Panjang","end": "Petir","line": "Bukit Panjang LRT","distance": 0.4
+  },{"start": "Bukit Panjang","end": "Ten Mile Junction","line": "Bukit Panjang LRT","distance": 0.4
+  },{"start": "Cove","end": "Meridian","line": "Punggol LRT","distance": 0.4
+  },{"start": "Sam Kee","end": "Teck Lee","line": "Punggol LRT","distance": 0.4
+  },{"start": "Nibong","end": "Sumang","line": "Punggol LRT","distance": 0.4
+  },{"start": "Sumang","end": "Soo Teck","line": "Punggol LRT","distance": 0.4
+  },{"start": "Little India","end": "Rochor","line": "Downtown Line","distance": 0.5
+  },{"start": "South View","end": "Keat Hong","line": "Bukit Panjang LRT","distance": 0.5
+  },{"start": "Teck Whye","end": "Phoenix","line": "Bukit Panjang LRT","distance": 0.5
+  },{"start": "Pending","end": "Bangkit","line": "Bukit Panjang LRT","distance": 0.5
+  },{"start": "Fajar","end": "Segar","line": "Bukit Panjang LRT","distance": 0.5
+  },{"start": "Rumbia","end": "Bakau","line": "Sengkang LRT","distance": 0.5
+  },{"start": "Cheng Lim","end": "Farmway","line": "Sengkang LRT","distance": 0.5
+  },{"start": "Fernvale","end": "Layar","line": "Sengkang LRT","distance": 0.5
+  },{"start": "Meridian","end": "Coral Edge","line": "Punggol LRT","distance": 0.5
+  },{"start": "Coral Edge","end": "Riviera","line": "Punggol LRT","distance": 0.5
+  },{"start": "Kadaloor","end": "Oasis","line": "Punggol LRT","distance": 0.5
+  },{"start": "Teck Lee","end": "Punggol","line": "Point Punggol LRT","distance": 0.5
+  },{"start": "Samudera","end": "Nibong","line": "Punggol LRT","distance": 0.5
+  },{"start": "Chinatown","end": "Clarke Quay","line": "North East Line","distance": 0.6
+  },{"start": "Dhoby Ghaut","end": "Bras Basah","line": "Circle Line","distance": 0.6
+  },{"start": "Downtown","end": "Telok Ayer","line": "Downtown Line","distance": 0.6
+  },{"start": "Telok Ayer","end": "Chinatown","line": "Downtown Line","distance": 0.6
+  },{"start": "Outram Park","end": "Maxwell","line": "Thomson–East Coast Line","distance": 0.6
+  },{"start": "Choa Chu Kang","end": "South View","line": "Bukit Panjang LRT","distance": 0.6
+  },{"start": "Keat Hong","end": "Teck Whye","line": "Bukit Panjang LRT","distance": 0.6
+  },{"start": "Bukit Panjang","end": "Senja","line": "Bukit Panjang LRT","distance": 0.6
+  },{"start": "Petir","end": "Pending","line": "Bukit Panjang LRT","distance": 0.6
+  },{"start": "Jelapang","end": "Senja","line": "Bukit Panjang LRT","distance": 0.6
+  },{"start": "Bakau","end": "Kangkar","line": "Sengkang LRT","distance": 0.6
+  },{"start": "Thanggam","end": "Fernvale","line": "Sengkang LRT","distance": 0.6
+  },{"start": "Tongkang","end": "Renjong","line": "Sengkang LRT","distance": 0.6
+  },{"start": "Oasis", "end": "Damai", "line": "Punggol LRT", "distance": 0.6 
+  },{"start": "Punggol","end": "Sam Kee","line": "Punggol LRT","distance": 0.6
+  },{"start": "Punggol Point","end": "Samudera","line": "Punggol LRT","distance": 0.6
+  },{"start": "Outram Park","end": "Chinatown","line": "North East Line","distance": 0.7
+  },{"start": "Bras Basah","end": "Esplanade","line": "Circle Line","distance": 0.7
+  },{"start": "Mountbatten","end": "Dakota","line": "Circle Line","distance": 0.7
+  },{"start": "Great World","end": "Havelock","line": "Thomson–East Coast Line","distance": 0.7
+  },{"start": "Shenton Way","end": "Marina Bay","line": "Thomson–East Coast Line","distance": 0.7
+  },{"start": "Phoenix","end": "Bukit Panjang","line": "Bukit Panjang LRT","distance": 0.7
+  },{"start": "Segar","end": "Jelapang","line": "Bukit Panjang LRT","distance": 0.7
+  },{"start": "Compassvale","end": "Rumbia","line": "Sengkang LRT","distance": 0.7
+  },{"start": "Kupang","end": "Thanggam","line": "Sengkang LRT","distance": 0.7
+  },{"start": "Layar","end": "Tongkang","line": "Sengkang LRT","distance": 0.7
+  },{"start": "Riviera","end": "Kadaloor","line": "Punggol LRT","distance": 0.7
+  },{"start": "Somerset","end": "Dhoby Ghaut","line": "North–South Line","distance": 0.8
+  },{"start": "Little India","end": "Farrer Park","line": "North East Line","distance": 0.8
+  },{"start": "Esplanade","end": "Promenade","line": "Circle Line","distance": 0.8
+  },{"start": "Promenade","end": "Nicoll Highway","line": "Circle Line","distance": 0.8
+  },{"start": "Buona Vista","end": "one-North","line": "Circle Line","distance": 0.8
+  },{"start": "one-North","end": "Kent Ridge","line": "Circle Line","distance": 0.8
+  },{"start": "Labrador Park","end": "Telok Blangah","line": "Circle Line","distance": 0.8
+  },{"start": "Bayfront","end": "Marina Bay","line": "Circle Line","distance": 0.8
+  },{"start": "Rochor","end": "Bugis","line": "Downtown Line","distance": 0.8
+  },{"start": "Mattar","end": "MacPherson","line": "Downtown Line","distance": 0.8
+  },{"start": "Maxwell","end": "Shenton Way","line": "Thomson–East Coast Line","distance": 0.8
+  },{"start": "Sengkang","end": "Compassvale","line": "Sengkang LRT","distance": 0.8
+  },{"start": "Kangkar","end": "Ranggung","line": "Sengkang LRT","distance": 0.8
+  },{"start": "Sengkang","end": "Cheng Lim","line": "Sengkang LRT","distance": 0.8
+  },{"start": "Braddell","end": "Toa Payoh","line": "North–South Line","distance": 0.9
+  },{"start": "Boon Lay","end": "Pioneer","line": "East–West Line","distance": 0.9
+  },{"start": "Potong Pasir","end": "Woodleigh","line": "North East Line","distance": 0.9
+  },{"start": "Stadium","end": "Mountbatten","line": "Circle Line","distance": 0.9
+  },{"start": "Serangoon","end": "Lorong Chuan","line": "Circle Line","distance": 0.9
+  },{"start": "Holland Village","end": "Buona Vista","line": "Circle Line","distance": 0.9
+  },{"start": "Cashew","end": "Hillview","line": "Downtown Line","distance": 0.9
+  },{"start": "Bugis","end": "Promenade","line": "Downtown Line","distance": 0.9
+  },{"start": "Bayfront","end": "Downtown","line": "Downtown Line","distance": 0.9
+  },{"start": "Bencoolen","end": "Jalan Besar","line": "Downtown Line","distance": 0.9
+  },{"start": "Upper Changi","end": "Expo","line": "Downtown Line","distance": 0.9
+  },{"start": "Napier","end": "Orchard Boulevard","line": "Thomson–East Coast Line","distance": 0.9
+  },{"start": "Bangkit","end": "Fajar","line": "Bukit Panjang LRT","distance": 0.9
+  },{"start": "Farmway","end": "Kupang","line": "Sengkang LRT","distance": 0.9
+  },{"start": "Sengkang","end": "Renjong","line": "Sengkang LRT","distance": 0.9
+  },{"start": "Punggol","end": "Damai","line": "Punggol LRT","distance": 0.9
+  },{"start": "Orchard","end": "Somerset","line": "North–South Line","distance": 1
+  },{"start": "Dhoby Ghaut","end": "City Hall","line": "North–South Line","distance": 1
+  },{"start": "City Hall","end": "Raffles Place","line": "North–South Line","distance": 1
+  },{"start": "Raffles Place","end": "Marina Bay","line": "North–South Line","distance": 1
+  },{"start": "Bugis","end": "City Hall","line": "East–West Line","distance": 1
+  },{"start": "City Hall","end": "Raffles Place","line": "East–West Line","distance": 1
+  },{"start": "Tanjong Pagar","end": "Outram Park","line": "East–West Line","distance": 1
+  },{"start": "Dhoby Ghaut","end": "Little India","line": "North East Line","distance": 1
+  },{"start": "MacPherson","end": "Tai Seng","line": "Circle Line","distance": 1
+  },{"start": "Botanic Gardens","end": "Farrer Road","line": "Circle Line","distance": 1
+  },{"start": "Chinatown","end": "Fort Canning","line": "Downtown Line","distance": 1
+  },{"start": "Fort Canning","end": "Bencoolen","line": "Downtown Line","distance": 1
+  },{"start": "Orchard Boulevard","end": "Orchard","line": "Thomson–East Coast Line","distance": 1
+  },{"start": "Orchard","end": "Great World","line": "Thomson–East Coast Line","distance": 1
+  },{"start": "Havelock","end": "Outram Park","line": "Thomson–East Coast Line","distance": 1
+  },{"start": "Marine Parade","end": "Marine Terrace","line": "Thomson–East Coast Line","distance": 1
+  },{"start": "Sengkang","end": "Ranggung","line": "Sengkang LRT","distance": 1
+  },{"start": "Punggol", "end": "Cove", "line": "Punggol LRT", "distance": 1 
+  },{"start": "Punggol","end": "Soo Teck","line": "Punggol LRT","distance": 1
+  },{"start": "Kembangan","end": "Eunos","line": "East–West Line","distance": 1.1
+  },{"start": "Eunos","end": "Paya Lebar","line": "East–West Line","distance": 1.1
+  },{"start": "Kallang","end": "Lavender","line": "East–West Line","distance": 1.1
+  },{"start": "Lavender","end": "Bugis","line": "East–West Line","distance": 1.1
+  },{"start": "Commonwealth","end": "Buona Vista","line": "East–West Line","distance": 1.1
+  },{"start": "Buangkok","end": "Sengkang","line": "North East Line","distance": 1.1
+  },{"start": "Paya Lebar","end": "MacPherson","line": "Circle Line","distance": 1.1
+  },{"start": "Tan Kah Kee","end": "Botanic Gardens","line": "Downtown Line","distance": 1.1
+  },{"start": "Botanic Gardens","end": "Stevens","line": "Downtown Line","distance": 1.1
+  },{"start": "MacPherson","end": "Ubi","line": "Downtown Line","distance": 1.1
+  },{"start": "Kaki Bukit","end": "Bedok North","line": "Downtown Line","distance": 1.1
+  },{"start": "Mayflower","end": "Bright Hill","line": "Thomson–East Coast Line","distance": 1.1
+  },{"start": "Tanjong Katong","end": "Marine Parade","line": "Thomson–East Coast Line","distance": 1.1
+  },{"start": "Bukit Batok","end": "Bukit Gombak","line": "North–South Line","distance": 1.2
+  },{"start": "Bishan","end": "Braddell","line": "North–South Line","distance": 1.2
+  },{"start": "Novena","end": "Newton","line": "North–South Line","distance": 1.2
+  },{"start": "Newton","end": "Orchard","line": "North–South Line","distance": 1.2
+  },{"start": "Paya Lebar","end": "Aljunied","line": "East–West Line","distance": 1.2
+  },{"start": "Raffles Place","end": "Tanjong Pagar","line": "East–West Line","distance": 1.2
+  },{"start": "Tiong Bahru","end": "Redhill","line": "East–West Line","distance": 1.2
+  },{"start": "Queenstown","end": "Commonwealth","line": "East–West Line","distance": 1.2
+  },{"start": "Farrer Park","end": "Boon Keng","line": "North East Line","distance": 1.2
+  },{"start": "Woodleigh","end": "Serangoon","line": "North East Line","distance": 1.2
+  },{"start": "Dakota","end": "Paya Lebar","line": "Circle Line","distance": 1.2
+  },{"start": "Marymount","end": "Caldecott","line": "Circle Line","distance": 1.2
+  },{"start": "Bukit Panjang","end": "Cashew","line": "Downtown Line","distance": 1.2
+  },{"start": "Beauty World","end": "King Albert Park","line": "Downtown Line","distance": 1.2
+  },{"start": "Ubi","end": "Kaki Bukit","line": "Downtown Line","distance": 1.2
+  },{"start": "Katong Park","end": "Tanjong Katong","line": "Thomson–East Coast Line","distance": 1.2
+  },{"start": "Tuas West Road","end": "Tuas Link","line": "East–West Line","distance": 1.3
+  },{"start": "Hougang","end": "Buangkok","line": "North East Line","distance": 1.3
+  },{"start": "Tai Seng","end": "Bartley","line": "Circle Line","distance": 1.3
+  },{"start": "Bartley","end": "Serangoon","line": "Circle Line","distance": 1.3
+  },{"start": "Haw Par Villa","end": "Pasir Panjang","line": "Circle Line","distance": 1.3
+  },{"start": "Promenade","end": "Bayfront","line": "Circle Line","distance": 1.3
+  },{"start": "Sixth Avenue","end": "Tan Kah Kee","line": "Downtown Line","distance": 1.3
+  },{"start": "Promenade","end": "Bayfront","line": "Downtown Line","distance": 1.3
+  },{"start": "Jalan Besar","end": "Bendemeer","line": "Downtown Line","distance": 1.3
+  },{"start": "Tampines West","end": "Tampines","line": "Downtown Line","distance": 1.3
+  },{"start": "Siglap","end": "Bayshore","line": "Thomson–East Coast Line","distance": 1.3
+  },{"start": "Choa Chu Kang","end": "Yew Tee","line": "North–South Line","distance": 1.4
+  },{"start": "Yishun","end": "Khatib","line": "North–South Line","distance": 1.4
+  },{"start": "Marina Bay","end": "Marina South Pier","line": "North–South Line","distance": 1.4
+  },{"start": "Tampines","end": "Simei","line": "East–West Line","distance": 1.4
+  },{"start": "Aljunied","end": "Kallang","line": "East–West Line","distance": 1.4
+  },{"start": "Redhill","end": "Queenstown","line": "East–West Line","distance": 1.4
+  },{"start": "Buona Vista","end": "Dover","line": "East–West Line","distance": 1.4
+  },{"start": "Chinese Garden","end": "Lakeside","line": "East–West Line","distance": 1.4
+  },{"start": "Tuas Crescent","end": "Tuas West Road","line": "East–West Line","distance": 1.4
+  },{"start": "Clarke Quay","end": "Dhoby Ghaut","line": "North East Line","distance": 1.4
+  },{"start": "Farrer Road","end": "Holland Village","line": "Circle Line","distance": 1.4
+  },{"start": "Kent Ridge","end": "Haw Par Villa","line": "Circle Line","distance": 1.4
+  },{"start": "Pasir Panjang","end": "Labrador Park","line": "Circle Line","distance": 1.4
+  },{"start": "Newton","end": "Little India","line": "Downtown Line","distance": 1.4
+  },{"start": "Bendemeer","end": "Geylang Bahru","line": "Downtown Line","distance": 1.4
+  },{"start": "Tampines","end": "Tampines East","line": "Downtown Line","distance": 1.4
+  },{"start": "Woodlands North","end": "Woodlands","line": "Thomson–East Coast Line","distance": 1.4
+  },{"start": "Woodlands","end": "Woodlands South","line": "Thomson–East Coast Line","distance": 1.4
+  },{"start": "Bright Hill","end": "Upper Thomson","line": "Thomson–East Coast Line","distance": 1.4
+  },{"start": "Marsiling","end": "Woodlands","line": "North–South Line","distance": 1.5
+  },{"start": "Sembawang","end": "Canberra","line": "North–South Line","distance": 1.5
+  },{"start": "Yio Chu Kang","end": "Ang Mo Kio","line": "North–South Line","distance": 1.5
+  },{"start": "Toa Payoh","end": "Novena","line": "North–South Line","distance": 1.5
+  },{"start": "Outram Park","end": "Tiong Bahru","line": "East–West Line","distance": 1.5
+  },{"start": "Jurong East","end": "Chinese Garden","line": "East–West Line","distance": 1.5
+  },{"start": "Kovan","end": "Hougang","line": "North East Line","distance": 1.5
+  },{"start": "Nicoll Highway","end": "Stadium","line": "Circle Line","distance": 1.5
+  },{"start": "Telok Blangah","end": "HarbourFront","line": "Circle Line","distance": 1.5
+  },{"start": "Geylang Bahru","end": "Mattar","line": "Downtown Line","distance": 1.5
+  },{"start": "Tanjong Rhu","end": "Katong Park","line": "Thomson–East Coast Line","distance": 1.5
+  },{"start": "Boon Keng","end": "Potong Pasir","line": "North East Line","distance": 1.6
+  },{"start": "Bishan","end": "Marymount","line": "Circle Line","distance": 1.6
+  },{"start": "King Albert Park","end": "Sixth Avenue","line": "Downtown Line","distance": 1.6
+  },{"start": "Stevens","end": "Newton","line": "Downtown Line","distance": 1.6
+  },{"start": "Kranji","end": "Marsiling","line": "North–South Line","distance": 1.7
+  },{"start": "Woodlands","end": "Admiralty","line": "North–South Line","distance": 1.7
+  },{"start": "Canberra","end": "Yishun","line": "North–South Line","distance": 1.7
+  },{"start": "Dover","end": "Clementi","line": "East–West Line","distance": 1.7
+  },{"start": "Gul Circle","end": "Tuas Crescent","line": "East–West Line","distance": 1.7
+  },{"start": "Serangoon","end": "Kovan","line": "North East Line","distance": 1.7
+  },{"start": "Sengkang","end": "Punggol","line": "North East Line","distance": 1.7
+  },{"start": "Lorong Chuan","end": "Bishan","line": "Circle Line","distance": 1.7
+  },{"start": "Bedok Reservoir","end": "Tampines West","line": "Downtown Line","distance": 1.7
+  },{"start": "Lentor","end": "Mayflower","line": "Thomson–East Coast Line","distance": 1.7
+  },{"start": "Stevens","end": "Napier","line": "Thomson–East Coast Line","distance": 1.7
+  },{"start": "Marina Bay","end": "Gardens By The Bay","line": "Thomson–East Coast Line","distance": 1.7
+  },{"start": "Marine Terrace","end": "Siglap","line": "Thomson–East Coast Line","distance": 1.7
+  },{"start": "Lakeside","end": "Boon Lay","line": "East–West Line","distance": 1.8
+  },{"start": "Bedok North Reservoir","end": "Bedok","line": "Downtown Line","distance": 1.8
+  },{"start": "Tanah Merah","end": "Bedok","line": "East–West Line","distance": 1.9
+  },{"start": "Tanah Merah","end": "Expo","line": "East–West Line","distance": 1.9
+  },{"start": "Bedok","end": "Kembangan","line": "East–West Line","distance": 2
+  },{"start": "Jurong East","end": "Bukit Batok","line": "North–South Line","distance": 2.1
+  },{"start": "Upper Thomson","end": "Caldecott","line": "Thomson–East Coast Line","distance": 2.2
+  },{"start": "Joo Koon","end": "Gul Circle","line": "East–West Line","distance": 2.3
+  },{"start": "Admiralty","end": "Sembawang","line": "North–South Line","distance": 2.4
+  },{"start": "Ang Mo Kio","end": "Bishan","line": "North–South Line","distance": 2.4
+  },{"start": "Pasir Ris","end": "Tampines","line": "East–West Line","distance": 2.4
+  },{"start": "Simei","end": "Tanah Merah","line": "East–West Line","distance": 2.5
+  },{"start": "Pioneer","end": "Joo Koon","line": "East–West Line","distance": 2.6
+  },{"start": "HarbourFront","end": "Outram Park","line": "North East Line","distance": 2.6
+  },{"start": "Hillview","end": "Beauty World","line": "Downtown Line","distance": 2.6
+  },{"start": "Tampines East","end": "Upper Changi","line": "Downtown Line","distance": 2.6
+  },{"start": "Springleaf","end": "Lentor","line": "Thomson–East Coast Line","distance": 2.6
+  },{"start": "Gardens by the Bay","end": "Tanjong Rhu","line": "Thomson–East Coast Line","distance": 2.7
+  },{"start": "Caldecott","end": "Stevens","line": "Thomson–East Coast Line","distance": 3
+  },{"start": "Bukit Gombak","end": "Choa Chu Kang","line": "North–South Line","distance": 3.3
+  },{"start": "Clementi","end": "Jurong East","line": "East–West Line","distance": 3.5
+  },{"start": "Caldecott","end": "Botanic Gardens","line": "Circle Line","distance": 3.9
+  },{"start": "Yew Tee","end": "Kranji","line": "North–South Line","distance": 4.1
+  },{"start": "Woodlands South","end": "Springleaf","line": "Thomson–East Coast Line","distance": 4.4
+  },{"start": "Expo","end": "Changi Airport","line": "East–West Line","distance": 4.5
+  },{"start": "Khatib","end": "Yio Chu Kang","line": "North–South Line","distance": 4.9
+  }
+]

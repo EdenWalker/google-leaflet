@@ -1,6 +1,6 @@
 
 #map { 
-  height: 70vh; 
+  height: 50vh; 
 border: 5px;
 border-style:ridge;
 justify-content:end;
@@ -55,23 +55,36 @@ select {
   box-sizing: border-box;
 }
 #stationSelect {
-  display: none; /* Hide by default */
+  display: none; 
 }
 
 #stationSelect.show {
-  display: block; /* Show when class "show" is added */
+  display: block; 
 }
-/* .dropdown-menu {
-  /* position: relative; or absolute/fixed depending on your layout */
-   /* or any higher number */
-  /* margin-left: 50px } */
-/* #searchInput {
-  margin-left: 50px; /* Add 50 pixels margin to the left } */
 .bg-image {
-  background-image: url('img/nightlandmark.webp'); /* Replace with your image path */
-  background-size:120vw; /* Scale the image to cover the entire container */
+  background-image: url('img/nightlandmark.webp'); 
+  background-size:120vw; 
   /* background-position: center; Center the image */
-  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-repeat: repeat; /* Prevent the image from repeating */
   /* padding: 20px; Optional: Add padding to create space inside the container */
   color: white; /* Optional: Change text color to contrast with the background */
+}
+@font-face {
+  font-family: 'LTA';
+  src: url('font/LTAIdentity-Medium.woff2') format('woff2'),
+       url('font/LTAIdentity-Medium.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+.your-style {
+  font-family: 'Ocean Sans Std';
+  src: url('font/OceanSansStd-BookIta.woff2') format('woff2'),
+       url('font/OceanSansStd-BookIta.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+.custom-popup {
+  font-family: 'Ocean Sans Std', sans-serif;
+  text-align: center;
+  padding: 10px;   
 }

@@ -1440,10 +1440,7 @@
       "type": "Feature","properties": {"Station_Name": "PHOENIX",
         "EXIT_CODE": "Exit A"},"geometry": {"type": "Point","coordinates": [103.758252475106, 1.37861406821397]}
     },
-    {
-      "type": "Feature","properties": {"Station_Name": "BUKIT PANJANG",
-        "EXIT_CODE": "Exit A"},"geometry": {"type": "Point","coordinates": [103.759597843573, 1.38074511730578]}
-    },
+   
     {
       "type": "Feature","properties": {"Station_Name": "BUANGKOK",
         "EXIT_CODE": "Exit A"},"geometry": {"type": "Point","coordinates": [103.892883836731, 1.3834097909899]}
